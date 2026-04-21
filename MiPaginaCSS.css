@@ -166,7 +166,7 @@ Imagen grande con overlay */
 
 .hero {
   min-height: 75vh;
-  background-image: url("images/plantilla.PNG");
+  background-image: url("images/plantilla.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center 72%;
